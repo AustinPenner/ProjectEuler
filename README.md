@@ -1,0 +1,2 @@
+# Project Euler Solutions
+This repository contains solutions to the first 50 [Project Euler](https://projecteuler.net/) problems, written in Python and Java. For reference only, not to be used for Project Euler submissions.
